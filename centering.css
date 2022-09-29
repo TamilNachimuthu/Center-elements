@@ -1,0 +1,34 @@
+.textdiv{
+    text-align: center;
+}
+.textdiv1{
+    text-align: right;
+}
+.textdiv2{
+    text-align: left;
+}
+.centeriteam{
+    height:100%;
+    display:grid;
+}
+.centerme{
+    margin: auto;
+}
+.flexitem{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20vh;
+    background-color: yellowgreen;
+}
+.flexitemcenter{
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    height: 20vh;
+    background-color: yellowgreen;
+}
+h1{
+    margin: 0;
+    padding: 0;
+}
